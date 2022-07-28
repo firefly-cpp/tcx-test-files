@@ -1,9 +1,11 @@
 # tcx-test-files
 
-# References
+# References (cycling and running activities)
 
 I. Jr. Fister, S. Rauter, D. Fister, I. Fister. [A collection of sport activity datasets
 with an emphasis on powermeter data](http://iztok-jr-fister.eu/static/publications/206.pdf). Technical report, University of Maribor, 2017.
+
+# License
 
 Shield: [![CC BY-SA 4.0][cc-by-sa-shield]][cc-by-sa]
 
