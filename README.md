@@ -1,4 +1,4 @@
-# tcx-test-files
+# A collection of the sports activity (tcx) test files for benchmarking the parsers
 
 # References (cycling and running activities)
 
