@@ -1,9 +1,25 @@
 # A collection of the sports activity (tcx) test files for benchmarking the parsers
 
+This is a **.tcx** sample collection of different sports activities files. The current samples cover **cycling**, **swimming**, **walking**, **running**, and **sup**.
+
+It can serve as a sample for developing sports activities record:
+- reader / parser,
+- visualizer,
+- editor.
+
+For data science solutions more sports activities files are found in the link provided in the references.
+
+We encourage you to use our solution [sport-activities-features](https://github.com/firefly-cpp/sport-activities-features) (Python) for working with **.tcx** files. We also developed a [tcx reader](https://github.com/alenrajsp/tcxreader) (Python).
+
+## What are .tcx files?
+
+[TCX](https://fileinfo.com/extension/tcx) is a file extension used for sports sessions records developed by (Garmin)[https://www.garmin.com/]. The sports sessions are recorded by Garmin wearable devices (e.g. smartwatch) and are in a XML format.
+
 # References (cycling and running activities)
 
 I. Jr. Fister, S. Rauter, D. Fister, I. Fister. [A collection of sport activity datasets
 with an emphasis on powermeter data](http://iztok-jr-fister.eu/static/publications/206.pdf). Technical report, University of Maribor, 2017.
+
 
 # License
 
