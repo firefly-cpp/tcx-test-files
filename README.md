@@ -13,13 +13,16 @@ We encourage you to use our solution [sport-activities-features](https://github.
 
 ## What are .tcx files?
 
-[TCX](https://fileinfo.com/extension/tcx) is a file extension used for sports sessions records developed by (Garmin)[https://www.garmin.com/]. The sports sessions are recorded by Garmin wearable devices (e.g. smartwatch) and are in a XML format.
+[TCX](https://fileinfo.com/extension/tcx) is a file extension used for sports sessions records developed by [Garmin](https://www.garmin.com/). The sports sessions are recorded by Garmin wearable devices (e.g. smartwatch) and are in a XML format.
 
 # References (cycling and running activities)
 
 I. Jr. Fister, S. Rauter, D. Fister, I. Fister. [A collection of sport activity datasets
 with an emphasis on powermeter data](http://iztok-jr-fister.eu/static/publications/206.pdf). Technical report, University of Maribor, 2017.
 
+# Further reading
+
+Rauter, Samo, Iztok Fister, and Iztok Fister Jr. "How to deal with sports activity datasets for data mining and analysis: Some tips and future challenges." International Journal of Advanced Pervasive and Ubiquitous Computing (IJAPUC) 7.2 (2015): 27-37.
 
 # License
 
