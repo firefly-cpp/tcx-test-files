@@ -22,7 +22,7 @@ with an emphasis on powermeter data](http://iztok-jr-fister.eu/static/publicatio
 
 # Further reading
 
-Rauter, Samo, Iztok Fister, and Iztok Fister Jr. "How to deal with sports activity datasets for data mining and analysis: Some tips and future challenges." International Journal of Advanced Pervasive and Ubiquitous Computing (IJAPUC) 7.2 (2015): 27-37.
+Rauter, Samo, Iztok Fister, and Iztok Fister Jr. "[How to deal with sports activity datasets for data mining and analysis: Some tips and future challenges](https://www.iztok-jr-fister.eu/static/publications/76.pdf)." International Journal of Advanced Pervasive and Ubiquitous Computing (IJAPUC) 7.2 (2015): 27-37.
 
 # License
 
