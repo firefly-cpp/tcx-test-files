@@ -9,7 +9,12 @@ It can serve as a sample for developing sports activities record:
 
 For data science solutions more sports activities files are found in the link provided in the references.
 
-We encourage you to use our solution [sport-activities-features](https://github.com/firefly-cpp/sport-activities-features) (Python) for working with **.tcx** files. We also developed a [tcx reader](https://github.com/alenrajsp/tcxreader) (Python).
+We encourage you to use our solution [sport-activities-features](https://github.com/firefly-cpp/sport-activities-features) (Python) for working with **.tcx** files. We also developed other solutions in different programming languages:
+
+- [tcx reader](https://github.com/alenrajsp/tcxreader) (Python),
+- [tcxr](https://github.com/firefly-cpp/tcxr) (R),
+- [tcxread](https://github.com/firefly-cpp/tcxread) (Ruby),
+- [TCXReader.jl](https://github.com/firefly-cpp/TCXReader.jl) (Julia).
 
 ## What are .tcx files?
 
